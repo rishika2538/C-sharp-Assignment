@@ -1,0 +1,14 @@
+D:\Capg\Ms Full Stack\C#\c# Assignments\oops concepts\oops\oops\bin\Debug\net8.0\oops.exe
+D:\Capg\Ms Full Stack\C#\c# Assignments\oops concepts\oops\oops\bin\Debug\net8.0\oops.deps.json
+D:\Capg\Ms Full Stack\C#\c# Assignments\oops concepts\oops\oops\bin\Debug\net8.0\oops.runtimeconfig.json
+D:\Capg\Ms Full Stack\C#\c# Assignments\oops concepts\oops\oops\bin\Debug\net8.0\oops.dll
+D:\Capg\Ms Full Stack\C#\c# Assignments\oops concepts\oops\oops\bin\Debug\net8.0\oops.pdb
+D:\Capg\Ms Full Stack\C#\c# Assignments\oops concepts\oops\oops\obj\Debug\net8.0\oops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capg\Ms Full Stack\C#\c# Assignments\oops concepts\oops\oops\obj\Debug\net8.0\oops.AssemblyInfoInputs.cache
+D:\Capg\Ms Full Stack\C#\c# Assignments\oops concepts\oops\oops\obj\Debug\net8.0\oops.AssemblyInfo.cs
+D:\Capg\Ms Full Stack\C#\c# Assignments\oops concepts\oops\oops\obj\Debug\net8.0\oops.csproj.CoreCompileInputs.cache
+D:\Capg\Ms Full Stack\C#\c# Assignments\oops concepts\oops\oops\obj\Debug\net8.0\oops.dll
+D:\Capg\Ms Full Stack\C#\c# Assignments\oops concepts\oops\oops\obj\Debug\net8.0\refint\oops.dll
+D:\Capg\Ms Full Stack\C#\c# Assignments\oops concepts\oops\oops\obj\Debug\net8.0\oops.pdb
+D:\Capg\Ms Full Stack\C#\c# Assignments\oops concepts\oops\oops\obj\Debug\net8.0\oops.genruntimeconfig.cache
+D:\Capg\Ms Full Stack\C#\c# Assignments\oops concepts\oops\oops\obj\Debug\net8.0\ref\oops.dll
